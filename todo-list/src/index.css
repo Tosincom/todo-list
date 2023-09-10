@@ -1,0 +1,47 @@
+.main{
+    border: 3px solid purple;
+    border-radius: 15px;
+    background-color: black;
+    margin: 120px;
+    height: 500px;
+    width: 60vh;
+}
+body{
+    background-color: orange;
+}
+.header{
+    text-align: center;
+    color: white;
+}
+
+.addTodo{
+    display: grid;
+    place-items: center;
+ 
+}
+
+.input{
+    width: 300px;
+    padding: 5px;
+}
+
+.tasks{
+    border: 1px solid white;
+   color: white;
+    margin: 12px;
+background-color: black;
+border-bottom: 1px solid white;
+padding: 3px;
+}
+
+
+.Add{
+    background-color: blue;
+    color: white;
+}
+
+
+
+.delete{
+    background-color: red;
+}
